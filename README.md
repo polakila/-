@@ -1,4 +1,4 @@
-<HTML>
+<html>
 <head>
 Персоны сыгравшие человека паука.
 </head>
@@ -11,4 +11,4 @@
 <table>
 </table>
 </body>
-</HTML>
+</html>
